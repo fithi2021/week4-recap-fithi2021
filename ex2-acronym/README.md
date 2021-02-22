@@ -2,16 +2,16 @@
 
 AFK, LOL, ASAP, BTW are examples of acronyms.
 
-*Away From Keyboard*
+_Away From Keyboard_
 
-*Laughing Out Loud*
+_Laughing Out Loud_
 
-*As Soon As Possible*
+_As Soon As Possible_
 
-*By The Way*
+_By The Way_
 
 **Create a program that given a phrase generates their acronym (all caps).**
 
 The program needs to work regardless of lowercase and uppercase. For example "be right back" should give BRB
 
-**Write the Pseudocode and then [use blockly](https://blockly-demo.appspot.com/static/demos/code/index.html) to generate the code.**
+**Write the Pseudocode and then [use blockly](lockly-demohttps://b.appspot.com/static/demos/code/index.html) to generate the code.**
