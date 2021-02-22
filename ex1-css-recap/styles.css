@@ -83,6 +83,7 @@ html {
   width: 20px;
   height: 20px;
   margin: 5px;
+  border-radius: 3px;
 }
 
 .flex .div-2 {
@@ -90,6 +91,7 @@ html {
   width: 20px;
   height: 20px;
   margin: 5px;
+  border-radius: 3px;
 }
 
 .flex .div-3 {
@@ -97,10 +99,12 @@ html {
   width: 20px;
   height: 20px;
   margin: 5px;
+  border-radius: 3px;
 }
 .flex .div-4 {
   background-color: red;
   width: 20px;
   height: 20px;
   margin: 5px;
+  border-radius: 3px;
 }
