@@ -138,5 +138,8 @@ body {
   border-radius: 3px;
 }
 #btn-back {
-  float: left;
+  float: right;
+  padding: 10px 30px;
+  background-color: coral;
+  border: none;
 }
